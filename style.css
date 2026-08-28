@@ -18,3 +18,15 @@ iframe {
     max-width: 100%;
     margin-bottom: 20px;
 }
+
+.botao-musica {
+    display: block;
+    width: 250px;
+    margin: 15px auto;
+    padding: 12px;
+    background-color: #a855f7;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
