@@ -1,3 +1,24 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #a855f7;
+}
+
+h2 {
+    color: #c084fc;
+    margin-top: 40px;
+}
+
+iframe {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
 .botao-musica {
     display: block;
     width: 250px;
@@ -8,11 +29,10 @@
     text-decoration: none;
     border-radius: 8px;
     font-weight: bold;
-    transition: 0.3s; /* Deixa o movimento suave, sem dar solavancos */
+    transition: 0.3s;
 }
 
-/* O truque do mouse por cima fica aqui: */
 .botao-musica:hover {
-    background-color: #c084fc; /* Roxo mais claro e brilhante */
-    transform: scale(1.05);    /* Dá um leve zoom no botão */
+    background-color: #c084fc;
+    transform: scale(1.05);
 }
