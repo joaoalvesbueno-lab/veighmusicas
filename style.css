@@ -5,20 +5,16 @@ body {
     text-align: center;
 }
 
-iframe {
-    max-width: 100%;
-}
-body {
-    background-color: #121212;
-    color: #ffffff;
-    font-family: sans-serif;
-    text-align: center;
-}
-
 h1 {
     color: #a855f7;
 }
 
+h2 {
+    color: #c084fc;
+    margin-top: 40px;
+}
+
 iframe {
     max-width: 100%;
+    margin-bottom: 20px;
 }
